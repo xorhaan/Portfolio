@@ -216,7 +216,7 @@ export default function Home() {
               {
                 title: 'Causana – Temporal Causal Inference Explorer',
                 slug: 'causana-temporal-causal-inference-explorer',
-                github: 'https://github.com/R0h-a-a-n/Causana',
+                github: 'https://github.com/xorhaan/Causana',
                 bullets: [
                   'End-to-end causal analysis platform for time-lagged relationships in multivariate time series.',
                   'Modular pipeline: FastAPI engine, Go job runner, Spring Boot gateway.',
@@ -226,7 +226,7 @@ export default function Home() {
               {
                 title: 'Convidat – AI-Powered Sustainable Tourism Platform',
                 slug: 'convidat-ai-powered-sustainable-tourism-platform',
-                github: 'https://github.com/R0h-a-a-n/Convidat',
+                github: 'https://github.com/xorhaan/Convidat',
                 bullets: [
                   'Production-grade MERN microservices platform for eco-conscious tourism.',
                   'SVD-based recommendation model, modular services for eco-stay, carbon tracking, city ranking.',
@@ -236,7 +236,7 @@ export default function Home() {
               {
                 title: 'OccluFix – Face Inpainting with Perceptual and Adversarial Losses',
                 slug: 'occlufix-face-inpainting-with-perceptual-and-adversarial-losses',
-                github: 'https://github.com/R0h-a-a-n/OccluFix',
+                github: 'https://github.com/xorhaan/OccluFix',
                 bullets: [
                   'U-Net-based inpainting model for occluded facial regions using CelebA dataset.',
                   'Combines L1, VGG16 perceptual loss, PatchGAN adversarial loss for realism.',
@@ -311,7 +311,7 @@ export default function Home() {
           className="w-full flex justify-center"
         >
           <a
-            href="https://leetcode.com/u/r0h-a-a-n/"
+            href="https://leetcode.com/u/xorhaan/"
             target="_blank"
             rel="noopener noreferrer"
             className="block w-full max-w-3xl"
@@ -319,7 +319,7 @@ export default function Home() {
           >
             <div className="flex flex-col items-center justify-center w-full rounded-3xl border-2 border-black shadow-[12px_12px_0px_rgba(0,0,0,1)] bg-white/90 dark:bg-gray-900/90 backdrop-blur-lg p-12 hover:shadow-[16px_16px_0px_rgba(0,0,0,1)] z-10 transition-all duration-300 cursor-pointer">
               <img
-                src="https://leetcard.jacoblin.cool/r0h-a-a-n?theme=light&ext=heatmap"
+                src="https://leetcard.jacoblin.cool/xorhaan?theme=light&ext=heatmap"
                 alt="LeetCode Stats"
                 className="w-full max-w-2xl rounded-xl border border-gray-300 shadow-lg dark:border-gray-700"
                 style={{ background: 'inherit' }}
