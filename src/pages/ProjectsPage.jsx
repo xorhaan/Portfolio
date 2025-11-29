@@ -187,7 +187,7 @@ function ProjectsPage() {
     {
       title: 'Causana – Temporal Causal Inference Explorer',
       slug: 'causana-temporal-causal-inference-explorer',
-      github: 'https://github.com/R0h-a-a-n/Causana',
+      github: 'https://github.com/xorhaan/Causana',
       images: [
         '/projects/causana1.jpg',
         '/projects/causana2.jpg',
@@ -203,7 +203,7 @@ function ProjectsPage() {
     {
       title: 'Convidat – AI-Powered Sustainable Tourism Platform',
       slug: 'convidat-ai-powered-sustainable-tourism-platform',
-      github: 'https://github.com/R0h-a-a-n/Convidat',
+      github: 'https://github.com/xorhaan/Convidat',
       images: [
         '/projects/convidat1.png',
         '/projects/convidat2.png',
@@ -224,7 +224,7 @@ function ProjectsPage() {
     {
       title: 'OccluFix – Face Inpainting with Perceptual and Adversarial Losses',
       slug: 'occlufix-face-inpainting-with-perceptual-and-adversarial-losses',
-      github: 'https://github.com/R0h-a-a-n/OccluFix',
+      github: 'https://github.com/xorhaan/OccluFix',
       images: [
         '/projects/occlufix1.png',
         '/projects/occlufix2.png',
