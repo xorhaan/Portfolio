@@ -34,7 +34,7 @@ export default function Footer() {
           I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
         </p>
         <div className="flex justify-center space-x-8 mb-8">
-          <a href="https://github.com/R0h-a-a-n" target="_blank" rel="noopener noreferrer" className="text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-yellow-300">
+          <a href="https://github.com/xorhaan" target="_blank" rel="noopener noreferrer" className="text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-yellow-300">
             <FaGithub size={32} />
           </a>
           <a href="https://www.linkedin.com/in/r0h-a-a-n/" target="_blank" rel="noopener noreferrer" className="text-gray-800 dark:text-gray-200 hover:text-black dark:hover:text-yellow-300">
